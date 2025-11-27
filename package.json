@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Nirmal050/Cypress-cloud-demo#readme",
   "dependencies": {
-    "cypress": "^15.7.0"
+    "cypress": "^15.7.0",
+    "express": "^5.1.0"
   }
 }
